@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "Funko solo",
-    "password": "MOLEBOGENG",
+    "email": "hopekekane06@gmail.com",
+    "password": "HOPE KEKANE",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -24,7 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "✇Menhera kun☢︎",
+  "nickNameBot": "Kate fukurai",
   "prefix": "/",
   "database": {
     "type": "sqlite",
